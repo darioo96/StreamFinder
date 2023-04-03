@@ -1,0 +1,21 @@
+.var_search{
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    background-color: rgb(107, 120, 116);
+}
+.type ,.text{
+    border: none;
+    text-align: center;
+    background-color: none;
+    background-color: rgba(255, 255, 255, 0);
+    outline: none;
+
+}
+.type{
+    height: 40px;
+    width: 30%;
+}
+.text{    
+    width: 70%;
+}

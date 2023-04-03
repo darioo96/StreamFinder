@@ -1,0 +1,55 @@
+{
+    "imdb_id": "tt4154756",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "popularity": 94,
+    "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.",
+    "content_rating": "PG-13",
+    "movie_length": 149,
+    "rating": 8.4,
+    "created_at": "2021-04-27T22:22:34.265626+03:00",
+    "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+    "image_url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "release": "2018-04-25",
+    "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "banner": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "type": "movie",
+    "more_like_this": {},
+    "gen": [
+      {
+        "id": 4,
+        "genre": "Adventure"
+      },
+      {
+        "id": 11,
+        "genre": "Sci-Fi"
+      },
+      {
+        "id": 13,
+        "genre": "Action"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 57,
+        "keyword": "marvel cinematic universe"
+      },
+      {
+        "id": 62,
+        "keyword": "superhero"
+      },
+      {
+        "id": 139,
+        "keyword": "death of recurring character"
+      },
+      {
+        "id": 140,
+        "keyword": "supervillain"
+      },
+      {
+        "id": 141,
+        "keyword": "ensemble cast"
+      }
+    ]
+  
+}
